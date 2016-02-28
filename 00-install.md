@@ -10,10 +10,10 @@ DesignSafe-CI provides full scriptable access to its underlying infrastructure v
 
 ##Initial Assumptions
 
-* You have access to the Designsafe-CI.portal
+* You have access to the Designsafe-CI.org portal and you know your username/password for it
 * You have access to a Linux or Mac OS X commmand-line environment. On Windows, you can work inside a virtual machine configured with any variant of Linux.
 * You are comfortable editing text files and working at the command line
-* Git, Python 2.7.6+, curl, and Bash installed
+* You have Git, Python 2.7.6+, curl, and Bash installed
 
 ##Installing the CLI
 
